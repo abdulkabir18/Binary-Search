@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\sysbeamsExecrise\RecursionAssignment_BinarySearch\bin\Debug\net8.0\RecursionAssignment_BinarySearch.exe
+C:\Users\USER\Desktop\sysbeamsExecrise\RecursionAssignment_BinarySearch\bin\Debug\net8.0\RecursionAssignment_BinarySearch.deps.json
+C:\Users\USER\Desktop\sysbeamsExecrise\RecursionAssignment_BinarySearch\bin\Debug\net8.0\RecursionAssignment_BinarySearch.runtimeconfig.json
+C:\Users\USER\Desktop\sysbeamsExecrise\RecursionAssignment_BinarySearch\bin\Debug\net8.0\RecursionAssignment_BinarySearch.dll
+C:\Users\USER\Desktop\sysbeamsExecrise\RecursionAssignment_BinarySearch\bin\Debug\net8.0\RecursionAssignment_BinarySearch.pdb
+C:\Users\USER\Desktop\sysbeamsExecrise\RecursionAssignment_BinarySearch\obj\Debug\net8.0\RecursionAssignment_BinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\sysbeamsExecrise\RecursionAssignment_BinarySearch\obj\Debug\net8.0\RecursionAssignment_BinarySearch.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\sysbeamsExecrise\RecursionAssignment_BinarySearch\obj\Debug\net8.0\RecursionAssignment_BinarySearch.AssemblyInfo.cs
+C:\Users\USER\Desktop\sysbeamsExecrise\RecursionAssignment_BinarySearch\obj\Debug\net8.0\RecursionAssignment_BinarySearch.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\sysbeamsExecrise\RecursionAssignment_BinarySearch\obj\Debug\net8.0\RecursionAssignment_BinarySearch.dll
+C:\Users\USER\Desktop\sysbeamsExecrise\RecursionAssignment_BinarySearch\obj\Debug\net8.0\refint\RecursionAssignment_BinarySearch.dll
+C:\Users\USER\Desktop\sysbeamsExecrise\RecursionAssignment_BinarySearch\obj\Debug\net8.0\RecursionAssignment_BinarySearch.pdb
+C:\Users\USER\Desktop\sysbeamsExecrise\RecursionAssignment_BinarySearch\obj\Debug\net8.0\RecursionAssignment_BinarySearch.genruntimeconfig.cache
+C:\Users\USER\Desktop\sysbeamsExecrise\RecursionAssignment_BinarySearch\obj\Debug\net8.0\ref\RecursionAssignment_BinarySearch.dll

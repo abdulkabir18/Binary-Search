@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "RecursionAssignment_BinarySearch/1.0.0": {
+        "runtime": {
+          "RecursionAssignment_BinarySearch.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RecursionAssignment_BinarySearch/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
